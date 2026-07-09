@@ -1,3 +1,3 @@
 export * from "./Button";
 export * from "./WalletConnectModal";
-export * from "./WagmiProvider";
+export * from "./WagmiProvider";
